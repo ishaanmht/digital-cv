@@ -1,2 +1,2 @@
-# ishaan.github.io
+# Ishaan Mehta
 Ishaan's Digital CV
