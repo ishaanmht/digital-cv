@@ -1,5 +1,3 @@
-# Ishaan Mehta
-
 ## Contact Information
 
 * **Phone:** +1 (647) 803-3022
