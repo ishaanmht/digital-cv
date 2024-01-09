@@ -1,6 +1,5 @@
 ## Contact Information
 
-* **Phone:** +1 (647) 803-3022
 * **Email:** mehtaishaan4@gmail.com
 * **LinkedIn:** [ishaanmht](https://www.linkedin.com/in/ishaanmht/)
 * **GitHub:** [ishaanmht](https://github.com/ishaanmht)
