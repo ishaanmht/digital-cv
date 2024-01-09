@@ -58,24 +58,7 @@
 * Fourth prize winner of International Autodesk Space Challenge (2016)
 * Bruce M. Clark Jr. Memorial Scholarship for NASA AMES Space Settlement Contest (2011)
 
-## Extracurricular
 
-* **Volunteer at Art of Living (Dec 2018 - Present)**
-  * Actively promote breathwork and meditation practices for stress relief and inner peace.
-  * Organize community talks and meditation workshops.
-  * Conducted daily virtual breathwork and meditation sessions during COVID-19 pandemic.
-* **Lab2Market (Sep - Dec 2021)**
-  * Participated in Toronto Metropolitan University's program for assessing commercial viability of research innovations.
-  * Learned customer engagement techniques and interviewed industry experts for market needs.
-* **Volt (Sep - Dec 2020)**
-  * Participated in Toronto Metropolitan University's program for research commercialization.
-  * Gained entrepreneurial skills to assess research viability.
-* **Team-Member, AuToronto (Aug - Dec 2019)**
-  * Contributed to the University of Toronto's Self-Driving Car Team by developing low-level controllers.
-* **Team Leader, Engine Department, Team Nebula (Sept 2015 - Feb 2016)**
-  * Led engine development for a go-kart in the Elite Karting 2016 competition.
-* **AIESEC Exchange Program (May - Jun 2014)**
-  * Selected for and participated in social projects related to children's education in Shanghai, China.
 
 ## Services
 
